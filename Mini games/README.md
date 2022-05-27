@@ -10,6 +10,6 @@ Game 2:
 - in progress
 
 
-Source of imgaes: (other I created on my own)
+Source of images: (other I created on my own)
 
 https://opengameart.org/content/simple-dirt-2d-tileset
